@@ -19,14 +19,16 @@ ROSEN is the first social trading platform powered by Google Cloud and PayPal PY
 
 🔥 The Problem We Solve
 Today, 95% of people globally face three brutal barriers when working across borders:
-- Language Walls
-A Filipino freelancer loses jobs because clients only speak English
-- Payment Friction
-A Nigerian designer pays $25 to receive $50 payments
-- Opportunity Exclusion
-A Venezuelan tutor can't accept micropayments under $5
+
+- Language Walls:
+ A Spanish freelancer loses jobs because clients only speak English
+- Payment Friction:
+ A Nigerian designer pays $25 to receive $50 payments
+- Opportunity Exclusion:
+ A Venezuelan tutor can't accept international micropayments under $5
 
 ROSEN changes this with:
+
 ✅ AI-powered real-time translation
 
 ✅ PYUSD stablecoin for zero-fee microtransactions
@@ -46,13 +48,15 @@ ROSEN changes this with:
 🔒 Accessible & compliant: Live on the App Store and Google Play Store with a focus on compliant stablecoins
 
 ## For Hackathon Judges
-✅ PYUSD + GCP RPC: Leverages Google Cloud’s Ethereum mainnet RPC for reliable, scalable transactions on PYUSD, which bring the real-world impact to ordinary people.
+✅ PYUSD + GCP RPC: 
+
+Leverages Google Cloud’s Ethereum mainnet RPC for reliable, scalable and gasless transactions on app-native PYUSD with wallet abstract, which bring the real-world impact to ordinary people.
 
 ## 🎮 Key Features
 
 Feature | Tech Stack | Competitive Edge
 ------- | ---------- | -------------------
-1-Click PYUSD Onboarding | WalletConnect + GCP RPC | No crypto jargon – just Gmail + PayPal!
+1-Click PYUSD Onboarding | WalletConnect + wallet abstract + GCP RPC | No crypto jargon – just Gmail + PayPal!
 | Gasless Social Trading | GCP Batch Transactions | Users pay zero gas for in-app transfers,solves microtransaction cost barrier
 Cross-border seamless social trading |  AI Translation + In-Chat PYUSD | Transfer stablecoins to anyone in chat - just like sending a message! Showcases real-world PYUSD utility
 Multi-Chain Dashboard |  React + Ethers.js | Prepares for future GCP analytics integration
