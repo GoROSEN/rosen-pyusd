@@ -19,16 +19,18 @@ ROSEN is the first social trading platform powered by Google Cloud and PayPal PY
 
 🔥 The Problem We Solve
 Today, 95% of people globally face three brutal barriers when working across borders:
-Language Walls
+- Language Walls
 A Filipino freelancer loses jobs because clients only speak English
-Payment Friction
+- Payment Friction
 A Nigerian designer pays $25 to receive $50 payments
-Opportunity Exclusion
+- Opportunity Exclusion
 A Venezuelan tutor can't accept micropayments under $5
 
 ROSEN changes this with:
 ✅ AI-powered real-time translation
+
 ✅ PYUSD stablecoin for zero-fee microtransactions
+
 ✅ GCP Blockchain RPC ensuring 20-second settlements
 
 [Home Page](https://www-stag.gorosen.xyz)
@@ -40,7 +42,6 @@ ROSEN changes this with:
 🌐 Cross-border focus,solve a real-world problem: Break down language barriers, unlock potential and opportunities for global social economy.
 
 🔥 Gasless, seamless & instant transfers: Send PYUSD without paying gas (ROSEN covers fees!) to anyone in chat, just like sending a message! "Imagine tipping $10 as easily as sending a text"
-
 
 🔒 Accessible & compliant: Live on the App Store and Google Play Store with a focus on compliant stablecoins
 
