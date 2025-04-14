@@ -35,7 +35,7 @@ Today, 95% of people globally face three brutal barriers when working across bor
 
 ✅ GCP Blockchain RPC ensuring 20-second settlements
 
-[Home Page](https://www-stag.gorosen.xyz)
+ROSEN [Home Page](https://www-stag.gorosen.xyz)
 
 ## For Users
 
