@@ -21,11 +21,11 @@ ROSEN is the first social trading platform powered by Google Cloud and PayPal PY
 Today, 95% of people globally face three brutal barriers when working across borders:
 
 - Language Walls:
-  - A Spanish freelancer loses jobs because clients only speak English
+  - A Brazilian marketing manager lost business opportunities due to misunderstandings with Japanese clients, despite having valuable skills.
 - Payment Friction:
-  - A Nigerian designer pays $25 to receive $50 payments
+  - A Nigerian designer paid $25 in fees to receive a $50 cross-border payment – 50% of the transaction value.
 - Opportunity Exclusion:
-  - A Venezuelan tutor can't accept international micropayments under $5
+  - A Venezuelan influencer could not receive international micropayments of less than $10 as a tip
 
 ### ROSEN changes this with:
 
