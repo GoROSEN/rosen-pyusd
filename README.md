@@ -147,4 +147,4 @@ vim config.yaml
 
 MIT © ROSEN Team.
 
-**Judges, see our submission video here for a gasless PYUSD trade demo!**
+**Judges, see our submission [video] (https://youtu.be/DrGheKvdocc) here for a gasless seamless PYUSD social trade demo!**
