@@ -2,7 +2,7 @@
 
 ## 🌹 ROSEN APP
 
-The Revolutionary Social Trading App
+The Revolutionary Social Trading App - 
 Seamless cross-border connections, powered by PYUSD & Google Cloud’s Blockchain RPC
 
 - MIT License
@@ -11,23 +11,23 @@ Seamless cross-border connections, powered by PYUSD & Google Cloud’s Blockchai
 
 - PYUSD
 
-- Gasless Seamless
+- Gasless Seamless Borderless
 
 ## 🏆 Why ROSEN?
 
 ROSEN is the first social trading platform powered by Google Cloud and PayPal PYUSD
 
-🔥 The Problem We Solve
+### 🔥The Problem We Solve
 Today, 95% of people globally face three brutal barriers when working across borders:
 
 - Language Walls:
- A Spanish freelancer loses jobs because clients only speak English
+  - A Spanish freelancer loses jobs because clients only speak English
 - Payment Friction:
- A Nigerian designer pays $25 to receive $50 payments
+  - A Nigerian designer pays $25 to receive $50 payments
 - Opportunity Exclusion:
- A Venezuelan tutor can't accept international micropayments under $5
+  - A Venezuelan tutor can't accept international micropayments under $5
 
-ROSEN changes this with:
+### ROSEN changes this with:
 
 ✅ AI-powered real-time translation
 
@@ -63,19 +63,19 @@ Multi-Chain Dashboard |  React + Ethers.js | Prepares for future GCP analytics i
 
 ## ⚙️ PYUSD & GCP Blockchain RPC Integration
 
-How We Use Google Cloud:
+### How We Use Google Cloud:
 
 - Ethereum Mainnet RPC:
   - Endpoint: https://blockchain.googleapis.com/v1/projects/YOUR_PROJECT_AND_KEY_HERE
   - Used for: PYUSD deposit/withdrawal transactions (low-latency confirmations).
 
-How We Integrate PYUSD:
+### How We Integrate PYUSD:
 
 - Deposit, withdraw, tranfer PYUSD with 0 gas token
   - Uses GCP’s trace_block to verify PYUSD mint/burn events
   - Wallet abstraction hides contract calls from end-users
 
-Business Impact
+- Business Impact
 Metric | Traditional Apps | ROSEN + PYUSD
 ------- | ---------- | -------------------
 Min. Transfer | $50+ | $10
