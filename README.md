@@ -95,7 +95,7 @@ Compliance | ❌ Unverified | ✅ PayPal-backed
 
 You can download our App from [App Store](https://apps.apple.com/us/app/rosen/id6444627514) / [Google Play](https://play.google.com/store/apps/details?id=com.rosenbridge.rosen&pli=1) for a quick experience.
 
-And you can also download the [Beta Version](https://expo.dev/accounts/rosen-bridge/projects/rosen/builds/4efa0f19-da05-450a-a2c6-3a562d60ebbc) for new features such as PYUSD supports.
+And you can also download the [Beta Version](https://expo.dev/accounts/rosen-bridge/projects/rosen/builds/4efa0f19-da05-450a-a2c6-3a562d60ebbc) for new features such as PYUSD & GCP integrations.
 
 ### Build & Run Client
 
