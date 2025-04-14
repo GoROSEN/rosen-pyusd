@@ -15,7 +15,7 @@ Seamless cross-border connections, powered by PYUSD & Google Cloud’s Blockchai
 
 ## 🏆 Why ROSEN?
 
-ROSEN is the first social trading platform powered by Google Cloud and PayPal PYUSD
+ROSEN is the first social trading platform powered by Google Cloud and PayPal PYUSD, designed to solve real-world problems:
 
 ### 🔥The Problem We Solve
 Today, 95% of people globally face three brutal barriers when working across borders:
@@ -76,6 +76,7 @@ Multi-Chain Dashboard |  React + Ethers.js | Prepares for future GCP analytics i
   - Wallet abstraction hides contract calls from end-users
 
 - Business Impact
+
 Metric | Traditional Apps | ROSEN + PYUSD
 ------- | ---------- | -------------------
 Min. Transfer | $50+ | $10
